@@ -5,9 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "chromatic": "^5.9.0",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
     "husky": "^6.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
