@@ -1,0 +1,25 @@
+{
+  "name": "commentlist",
+  "version": "1.0.0",
+  "description": "Storybook",
+  "main": "index.js",
+  "dependencies": {
+    "chromatic": "^5.9.0",
+    "husky": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firelake2021/commentlist.git"
+  },
+  "author": "ekrotkova@indeed.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firelake2021/commentlist/issues"
+  },
+  "homepage": "https://github.com/firelake2021/commentlist#readme",
+  "keywords": []
+}
